@@ -11,7 +11,7 @@ files:
         length: 353
         placeholder_text: /* Make a code that displays the 100th prime number */
         initial_state:
-          length: 54
+          length: 353
           offset: 83
         initialized_from_dependency: false
         selected: true

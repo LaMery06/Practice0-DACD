@@ -7,7 +7,7 @@ files:
         length: 213
         placeholder_text: /* Complete the method makeItACombo */
         initial_state:
-          length: 94
+          length: 213
           offset: 252
         initialized_from_dependency: false
         selected: true
@@ -18,7 +18,7 @@ files:
         placeholder_text: /* Complete the method getBill */
         initial_state:
           length: 97
-          offset: 351
+          offset: 470
         initialized_from_dependency: false
         selected: true
         status: Solved

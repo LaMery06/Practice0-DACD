@@ -17,7 +17,7 @@ files:
         length: 0
         placeholder_text: /* break or continue */
         initial_state:
-          length: 8
+          length: 0
           offset: 663
         initialized_from_dependency: false
         selected: true
@@ -28,7 +28,7 @@ files:
         placeholder_text: /* break or continue */
         initial_state:
           length: 5
-          offset: 919
+          offset: 886
         initialized_from_dependency: false
         selected: true
         status: Solved

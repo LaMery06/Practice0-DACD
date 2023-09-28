@@ -9,7 +9,7 @@ files:
           in the input word. */
         initial_state:
           length: 206
-          offset: 130
+          offset: 245
         initialized_from_dependency: false
         selected: true
         status: Solved

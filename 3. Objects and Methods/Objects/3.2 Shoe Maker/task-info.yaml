@@ -11,7 +11,7 @@ files:
         length: 0
         placeholder_text: /* Create the boots as a Shoes object */
         initial_state:
-          length: 26
+          length: 0
           offset: 335
         initialized_from_dependency: false
         selected: true
@@ -21,8 +21,8 @@ files:
         length: 11
         placeholder_text: /* Set the boots color to "black". */
         initial_state:
-          length: 22
-          offset: 368
+          length: 11
+          offset: 335
         initialized_from_dependency: false
         selected: true
         status: Solved
@@ -32,7 +32,7 @@ files:
         placeholder_text: /* Set the boots size to 32. */
         initial_state:
           length: 16
-          offset: 397
+          offset: 353
         initialized_from_dependency: false
         selected: true
         status: Solved
