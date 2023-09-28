@@ -14,5 +14,6 @@ public class WhileUsingModulus
          }
          num++;
       }
+      System.out.println(count);
    }
 }
