@@ -3,13 +3,13 @@ files:
   - name: src/LettersList.java
     visible: true
     placeholders:
-      - offset: 130
+      - offset: 245
         length: 206
         placeholder_text: /* Complete the getLettersList method that get the list of letters
           in the input word. */
         initial_state:
-          length: 88
-          offset: 133
+          length: 206
+          offset: 130
         initialized_from_dependency: false
         selected: true
         status: Solved

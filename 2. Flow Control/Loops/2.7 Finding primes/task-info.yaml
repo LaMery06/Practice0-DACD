@@ -14,21 +14,21 @@ files:
     visible: true
     placeholders:
       - offset: 663
-        length: 8
+        length: 0
         placeholder_text: /* break or continue */
         initial_state:
-          length: 23
+          length: 8
           offset: 663
         initialized_from_dependency: false
         selected: true
         status: Solved
         encrypted_possible_answer: +rreWeLZ2/PtWdFPxkaAAA==
-      - offset: 919
+      - offset: 886
         length: 5
         placeholder_text: /* break or continue */
         initial_state:
-          length: 23
-          offset: 934
+          length: 5
+          offset: 919
         initialized_from_dependency: false
         selected: true
         status: Solved

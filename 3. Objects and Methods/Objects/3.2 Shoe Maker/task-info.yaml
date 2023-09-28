@@ -8,31 +8,31 @@ files:
     visible: true
     placeholders:
       - offset: 335
-        length: 26
+        length: 0
         placeholder_text: /* Create the boots as a Shoes object */
         initial_state:
-          length: 40
+          length: 26
           offset: 335
         initialized_from_dependency: false
         selected: true
         status: Solved
         encrypted_possible_answer: 0obB6IgeEn5racsRgxNVpNphl+x8j+KYoe+9FdPuPhc=
-      - offset: 368
-        length: 22
+      - offset: 335
+        length: 11
         placeholder_text: /* Set the boots color to "black". */
         initial_state:
-          length: 37
-          offset: 382
+          length: 22
+          offset: 368
         initialized_from_dependency: false
         selected: true
         status: Solved
         encrypted_possible_answer: V6lsmAqqi7588fD3lXSuxhgxInSKLvliUCWyQPaGPqc=
-      - offset: 397
+      - offset: 353
         length: 16
         placeholder_text: /* Set the boots size to 32. */
         initial_state:
-          length: 31
-          offset: 426
+          length: 16
+          offset: 397
         initialized_from_dependency: false
         selected: true
         status: Solved

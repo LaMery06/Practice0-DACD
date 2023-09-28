@@ -4,10 +4,10 @@ files:
     visible: true
     placeholders:
       - offset: 186
-        length: 38
+        length: 20
         placeholder_text: /* Add 1 to the Sheep count everytime one is created. */
         initial_state:
-          length: 56
+          length: 38
           offset: 186
         initialized_from_dependency: false
         selected: true
