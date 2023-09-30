@@ -17,9 +17,9 @@ public class Chessboard
 
       for (char[] row: chessboard)
       {
-         for (char cell: row)
+         for (char square: row)
          {
-            System.out.print(cell);
+            System.out.print(square);
          }
          System.out.println();
       }
