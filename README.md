@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 Please replace the following placeholders in the template with your actual information:
 
 - Author: María Alonso León.
-- Username:
+- Username: MariaAlonsoLeon
