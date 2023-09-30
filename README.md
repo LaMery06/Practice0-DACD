@@ -24,7 +24,7 @@ If you want to explore this project or run the code on your local machine, follo
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/java-beginners-course.git
+   git clone https://github.com/MariaAlonsoLeon/Practice0-DACD.git
 
 ## Contributing
 
