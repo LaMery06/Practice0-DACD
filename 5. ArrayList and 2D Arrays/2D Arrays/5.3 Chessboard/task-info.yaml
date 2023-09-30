@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 124
-        length: 408
+        length: 780
         placeholder_text: /* Create and print a chessboard. */
         initial_state:
           length: 36
@@ -26,5 +26,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Thu, 28 Sep 2023 19:45:49 UTC"
+  time: "Sat, 30 Sep 2023 10:14:31 UTC"
 record: -1
